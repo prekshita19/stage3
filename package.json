@@ -1,0 +1,23 @@
+{
+  "name": "project-builder-node-quiz-stage-3",
+  "version": "1.0.0",
+  "description": "![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikeyandhanasekar/project-builder-node-quiz-stage-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikeyandhanasekar/project-builder-node-quiz-stage-3/issues"
+  },
+  "homepage": "https://github.com/karthikeyandhanasekar/project-builder-node-quiz-stage-3#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.3.1"
+  }
+}
